@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void knapsack(int n, float profit[], float weight[], float capacity)
 {
